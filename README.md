@@ -1,4 +1,6 @@
-# 仅供参考和学习，勿用于生产环境
+收费请联系TG
+
+# [@bshicc](https://t.me/bshicc)
 
 # Crypto Telegram Faka
 ### 一个使用Go开发的加密货币USDT发卡机器人，带web后台
@@ -17,7 +19,7 @@
 
 
 # DEMO
-[betaBot](https://t.me/unclebetabot)
+[bshcxxjbot](https://t.me/bshcxxjbot)
 
 # 项目结构
 ```angular2html
@@ -54,7 +56,6 @@ cmd         # 程序入口
     2 请对自己的信息负责，保护好自己的tg账号，不要使用第三方客户端；登录管理页面后及时退出；如数据库中有钱包密钥，谨慎使用导出钱包功能
 
 # Docker运行方式(推荐)
-参考 [umfaka/tgfaka_release](https://github.com/umfaka/tgfaka_release)
 
 # 使用方法
 - 配置`conf`下的配置文件`config.ini`
@@ -73,12 +74,12 @@ cmd         # 程序入口
 
 ## 有问题反馈
 在使用中有任何问题，欢迎反馈
-开发机器人频道: [@umfaka](https://t.me/umfaka)
+开发机器人频道: [@bshicc](https://t.me/abcylq)
 
 ## 打赏
 如果该项目对您有所帮助，希望可以请我喝一杯咖啡☕️
 Usdt(trc20)打赏地址: 
 ```
-TJAT3sPPpmMxo1fkf5o7F3rWXzFvqWN9Zu
+TDBwqiWzDeJJ26v5QNuCQZSHxtUbKbNGVM
 ```
 
